@@ -2078,6 +2078,21 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2862079099606133668, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: mainLight
+      value: 
+      objectReference: {fileID: 410087040}
+    - target: {fileID: 2862079099606133668, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: dayDuration
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2862079099606133668, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: nightDuration
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 5506914050303754676, guid: aed0e4d7a7974274b9fab068b685a678,
         type: 3}
       propertyPath: m_Name
