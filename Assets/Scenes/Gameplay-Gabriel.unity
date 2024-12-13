@@ -927,6 +927,74 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1049393077
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 222126919034010799, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5506914050303754676, guid: aed0e4d7a7974274b9fab068b685a678,
+        type: 3}
+      propertyPath: m_Name
+      value: Ciclo de Dia e Noite
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: aed0e4d7a7974274b9fab068b685a678, type: 3}
 --- !u!4 &1120612441 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4939360096221493585, guid: 4114c8cd6e942d14987f32f9d0a7097f,
@@ -1918,3 +1986,4 @@ SceneRoots:
   - {fileID: 904583662}
   - {fileID: 702693693}
   - {fileID: 979368012}
+  - {fileID: 1049393077}
